@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋
+
+## CB-X2-Jun
+
+### 关于我
+嗨，我是CB-X2-Jun，欢迎来到我的GitHub主页！
+
+### 统计信息
+![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=CB-X2-Jun)
 
 <!--
 **CB-X2-Jun/CB-X2-Jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
