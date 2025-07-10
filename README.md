@@ -3,7 +3,7 @@
 ## CB-X2-Jun
 
 ### 关于我
-嗨，我是CB-X2-Jun，欢迎来到我的GitHub主页！
+嗨，我是CB-X2-Jun，欢迎来到我的GitHub主页！ 
 
 ### 统计信息
 
