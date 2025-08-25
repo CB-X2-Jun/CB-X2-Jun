@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.89k added, 3.06k removed
+                                    78.1k added, 6.62k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.2321652828591" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="358.2321652828591" y="0" width="66.71638953629254" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="424.94855481915164" y="0" width="28.07013183200003" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.01868665115165" y="0" width="4.347658309342985" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.36634496049464" y="0" width="1.5059526140257988" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.8722975745204" y="0" width="0.8121023716821392" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.6843999462026" y="0" width="0.3048973224444675" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.989297268647" y="0" width="0.010702731352930796" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.1589955785075" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="358.1589955785075" y="0" width="66.7027625676089" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="424.86175814611636" y="0" width="28.064398446094724" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.9261565922111" y="0" width="4.440726298093589" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.3668828903047" y="0" width="1.505645019906078" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.87252791021075" y="0" width="0.8119364979940733" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.6844644082048" y="0" width="0.30483504649857845" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.9892994547034" y="0" width="0.01070054529661106" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2420,7 +2420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CB-X2-Jun/Hydro-problem-crawler-by-GPT</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hydro 题目爬取（测试用repo）</div>
@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>engineer-man/piston</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high performance general purpose code execution engine.</div>
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheSpeedX/PROXY-List</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get PROXY List  that gets updated everyday</div>
@@ -2567,7 +2567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vakhov/fresh-proxy-list</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provides a list of fresh, working proxy servers (HTTP, HTTPS, SOCKS4 &amp; SOCKS5) with multiple formats available for download.</div>
@@ -2731,7 +2731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2025, 20:37:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2025, 21:30:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
