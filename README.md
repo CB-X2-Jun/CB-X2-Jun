@@ -7,10 +7,22 @@
 ### 关于我
 嗨，我是CB-X2-Jun，欢迎来到我的GitHub主页！
 
+Hi, I'm CB-X2-Jun. Welcome to my GitHub profile!
+
+Location: Qingpu, Shanghai, China.
+
 ### 统计信息
 
 #### GitHub & CSDN
 ![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=CB-X2-Jun&theme=ayu-mirage&lang=zh-CN) ![我的 CSDN 数据](https://stats.justsong.cn/api/csdn?id=JunZhou_&theme=ayu-mirage&lang=zh-CN)
+
+#### AbuseIPDB
+
+<a href="https://www.abuseipdb.com/user/273686" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+  <img src="https://www.abuseipdb.com/contributor/273686.svg" alt="AbuseIPDB Contributor Badge" style="width: 297px;border-radius: 5px; border-top: 5px solid #058403; border-right: 5px solid #111; border-bottom: 5px solid #111; border-left: 5px solid #058403; padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
+</a>
+
+### Your network connection test
 
 ![](https://stats.justsong.cn/api/website/?url=https://github.com&style=flat)![](https://stats.justsong.cn/api/website/?url=https://www.luogu.com.cn&style=flat)![](https://stats.justsong.cn/api/website/?url=https://atcoder.jp&style=flat)![](https://stats.justsong.cn/api/website/?url=https://codeforces.com&style=flat)![](https://stats.justsong.cn/api/website/?url=https://uva.onlinejudge.org&style=flat)![](https://stats.justsong.cn/api/website/?url=https://hackerrank.com&style=flat)![](https://stats.justsong.cn/api/website/?url=https://vjudge.net&style=flat)![](https://stats.justsong.cn/api/website/?url=https://cb-x2-jun.github.io&style=flat)![](https://stats.justsong.cn/api/website/?url=https://cb-x2-jun.nic.kg&style=flat)![](https://stats.justsong.cn/api/website/?url=https://www.cb-x2-jun.run.place&style=flat)
 
