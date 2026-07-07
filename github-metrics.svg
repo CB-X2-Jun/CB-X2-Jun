@@ -2425,7 +2425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hsltz/masscan-windwos-1.3.2</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">masscan 是一款高速的异步端口扫描工具，采用独特的传输方式，可在短时间内完成大规模网络扫描。它专为扫描整个互联网或大型网段设计，扫描速度远超传统工具如 nmap，常被用于网络安全评估与渗透测试。</div>
@@ -2659,7 +2659,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2026, 19:48:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2026, 22:29:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
