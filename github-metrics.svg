@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            999 Commits
+                            1004 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.21m added, 3.10m removed
+                                    88.9k added, 16.3k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.6926750223787" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="346.6926750223787" y="0" width="63.740066555523" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="410.4327415779017" y="0" width="28.345616266849348" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.77835784475104" y="0" width="15.57018260298339" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.3485404477345" y="0" width="4.652674358934408" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.0012148066689" y="0" width="0.7192640593641892" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.7204788660331" y="0" width="0.27004192264139276" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.9905207886745" y="0" width="0.009479211325596835" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.5280860380134" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="346.5280860380134" y="0" width="63.709806577237984" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="410.2378926152514" y="0" width="28.332159460494072" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.5700520757455" y="0" width="15.781171347589273" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.3512234233348" y="0" width="4.650465546915896" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.0016889702507" y="0" width="0.7189225957292463" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.72061156597994" y="0" width="0.26991372285816767" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.9905252888381" y="0" width="0.009474711161973352" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hsltz/masscan-windwos-1.3.2</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">masscan 是一款高速的异步端口扫描工具，采用独特的传输方式，可在短时间内完成大规模网络扫描。它专为扫描整个互联网或大型网段设计，扫描速度远超传统工具如 nmap，常被用于网络安全评估与渗透测试。</div>
@@ -2685,7 +2685,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2026, 12:08:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2026, 15:13:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
