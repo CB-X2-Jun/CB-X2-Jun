@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CB-X2-Jun/verified-v2ray-lists</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">提供定时检查并更新的 人工入库 V2Ray 节点列表，包括VLESS VMESS Trojan Shadowsocks Wireguard Tuic AnyTLS Hysteria2协议</div>
@@ -2654,7 +2654,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2026, 20:21:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2026, 23:41:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
