@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1085 Commits
+                            1086 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.39m added, 3.29m removed
+                                    112k added, 17.4k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.0345849105868" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="347.0345849105868" y="0" width="62.95031515285087" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="409.98490006343764" y="0" width="28.293528470975065" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.2784285344127" y="0" width="16.140134559198007" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.41856309361066" y="0" width="4.595026849295484" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.01358994290615" y="0" width="0.7103522425043856" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.7239421854105" y="0" width="0.2666960524735205" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.99063823788407" y="0" width="0.009361762115936936" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.2132340223286" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="347.2132340223286" y="0" width="62.85076240144436" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="410.063996423773" y="0" width="28.248783681382754" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.31278010515575" y="0" width="16.114609749678976" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.42738985483476" y="0" width="4.587760045872447" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.0151499007072" y="0" width="0.7092288562268525" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.724378756934" y="0" width="0.26627428610509923" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.9906530430391" y="0" width="0.009346956960881052" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2431,7 +2431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CB-X2-Jun/ipv4-dns-query</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">在线DNS查询-仅A记录</div>
@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trybyteful/public-dns-directory</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Daily-updated global directory of 9,800+ public DNS resolvers across 153 countries, with uptime, DNSSEC, and filtering metadata in TXT, JSON, and CSV formats.</div>
@@ -2652,7 +2652,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2026, 15:37:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2026, 18:36:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
