@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1117 Commits
+                            1118 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.83873656809806" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="346.83873656809806" y="0" width="62.333226182857686" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="409.17196275095574" y="0" width="28.58435544073743" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.7563181916932" y="0" width="15.981916145414008" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.73823433710714" y="0" width="5.285025180361775" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.02325951746894" y="0" width="0.7033888058226945" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.72664832329167" y="0" width="0.26408168601764936" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.9907300093093" y="0" width="0.009269990690688033" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.83839561489566" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="346.83839561489566" y="0" width="62.333164907369" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="409.17156052226466" y="0" width="28.584779535655514" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.75634005792017" y="0" width="15.981900434696271" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.73824049261646" y="0" width="5.285019985018609" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.023260477635" y="0" width="0.7033881143697494" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.7266485920048" y="0" width="0.2640814264171865" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.99073001842197" y="0" width="0.009269981578000554" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnshe/DNSHE-FreeDomains</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌐 DNSHE Official - Stable &amp; Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)</div>
@@ -2447,7 +2447,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        190
+                                        192
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2653,7 +2653,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2026, 19:06:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2026, 21:02:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
