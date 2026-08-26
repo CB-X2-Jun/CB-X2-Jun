@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1996 Commits
+                            1997 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.4882398405888" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="338.4882398405888" y="0" width="63.35946512411001" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="401.8477049646988" y="0" width="29.09607391502708" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="430.94377887972587" y="0" width="20.299600149031868" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.2433790287577" y="0" width="7.698067920463416" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.94144694922113" y="0" width="0.6107489875691545" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.55219593679027" y="0" width="0.22930080921914897" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.7814967460094" y="0" width="0.21850325399050755" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.4162829649187" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="337.4162829649187" y="0" width="64.61558423988765" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="402.03186720480636" y="0" width="29.00392969015561" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="431.03579689496195" y="0" width="20.235313437140913" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.2711103321029" y="0" width="7.673688943986707" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.9447992760896" y="0" width="0.6088148093630176" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.55361408545264" y="0" width="0.2285746375236273" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.7821887229763" y="0" width="0.21781127702379893" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Spydr06/BCause</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BCause (pronounced "because") is a compiler for the old B programming language (1969) for modern systems.</div>
@@ -2675,7 +2675,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2026, 21:52:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2026, 22:41:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
