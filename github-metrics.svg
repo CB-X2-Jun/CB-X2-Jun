@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1433" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1453" class="">
     <defs>
         <style/>
     </defs>
@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -449,7 +449,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.77
+                            Average per day at ~3.76
                         </div>
                     </section>
                 </div>
@@ -2399,6 +2399,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2420,12 +2425,12 @@
                                     </svg>
                                     <div class="name">
                                         <span>CB-X2-Jun/flag-icons</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
                                     <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                    基于 lipis/flag-icons 扩充的旗帜库（仅CSS）
+                                    基于 lipis/flag-icons 扩充的旗帜库（仅CSS）（仅4x3）收录阿布哈兹、北塞浦路斯等争议地区！收录南斯拉夫、锡金等历史政权！欢迎使用与贡献！
                                 </div>
                                 <div class="field infos">
                                     <div class="language">
@@ -2576,7 +2581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CB-X2-Jun/wikidot-sites-monitor</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wikidot Sites Monitor - Get the Status of Some Famous Wikidot Sites</div>
@@ -2662,7 +2667,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2026, 07:45:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2026, 12:54:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
