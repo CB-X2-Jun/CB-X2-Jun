@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2194 Commits
+                            2198 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    145k added, 25.5k removed
+                                    296k added, 195k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.52509778278977" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="335.52509778278977" y="0" width="60.77990128480223" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="396.30499906759195" y="0" width="32.97968791143004" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.28468697902196" y="0" width="21.06341735143299" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.34810433045493" y="0" width="8.659333324262697" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.00743765471765" y="0" width="0.5726746024060129" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.5801122571237" y="0" width="0.21500608666352397" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.7951183437872" y="0" width="0.20488165621275872" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.56329167855154" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="335.56329167855154" y="0" width="60.76125157170558" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="396.3245432502571" y="0" width="32.969568419549276" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.2941116698064" y="0" width="21.056954249615853" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.35106591942224" y="0" width="8.656676293259158" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.00774221268136" y="0" width="0.5724988828538773" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.58024109553526" y="0" width="0.21494011416693304" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.7951812097022" y="0" width="0.20481879029777095" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catseye/Thue</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cat's Eye Technologies' distribution of John Colagioia's Thue programming language</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dzaima/CBQN</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a BQN implementation in C</div>
@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>razetime/Zirconium</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zirconium esolang implementation in bqn</div>
@@ -2587,7 +2587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>P-TNPC/Meaoiu</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">「喵谕」是一只编程语言喵~</div>
@@ -2673,7 +2673,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2026, 14:48:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2026, 21:51:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
